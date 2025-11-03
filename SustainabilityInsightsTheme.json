@@ -1,0 +1,22 @@
+{
+  "name": "Sustainability Insights",
+  "dataColors": [
+    "#4CAF50", "#2196F3", "#FFC107", "#9E9E9E", "#2E7D32", "#1976D2", "#FFB300"
+  ],
+  "background": "#F4F4F4",
+  "foreground": "#1F2937",
+  "tableAccent": "#4CAF50",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#1F2937" } }]
+      }
+    },
+    "header": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "titleText": [{ "fontSize": 14 }]
+      }
+    }
+  }
+}
